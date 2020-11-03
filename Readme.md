@@ -13,7 +13,7 @@ https://github.com/t0mm4rx/ft_services
 https://github.com/ska42/ft_services
 https://github.com/solaldunckel/ft_services
 
-
+https://blog.logrocket.com/sentiment-analysis-node-js/
 
 # ft_services
 
